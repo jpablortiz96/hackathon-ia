@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b18593cc-6fd0-4895-ba3c-15017de08b63/resourceGroups/equipo9/providers/Microsoft.Web/sites/WebAppEquipo9",
+    "appService.deploySubpath": "."
+}
